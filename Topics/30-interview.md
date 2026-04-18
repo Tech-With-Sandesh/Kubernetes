@@ -1,4 +1,4 @@
-# 🚀 Kubernetes Interview Questions (Real-World + Deep Answers) – Top 30
+# 🚀 Kubernetes Interview Questions
 
 ## 📌 Overview
 This guide contains **30 real-world Kubernetes interview questions with deep, practical answers**.  
